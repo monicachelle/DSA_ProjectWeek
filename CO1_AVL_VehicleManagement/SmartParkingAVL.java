@@ -1,3 +1,5 @@
+package CO1_AVL_VehicleManagement;
+
 class VehicleNode {
     String vehicleNumber;
     VehicleNode left, right;

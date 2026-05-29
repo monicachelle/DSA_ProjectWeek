@@ -1,3 +1,5 @@
+package CO2_SegmentTree_TrafficAnalysis;
+
 class SegmentTree {
     int[] tree;
     int n;
